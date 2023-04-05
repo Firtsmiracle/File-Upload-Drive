@@ -43,13 +43,17 @@ Finalmente Seleccionamos la cuenta de servicio y nos vamos a la opcion `Claves >
     
 3. Guardamos el ID de la carpeta
     
+    
 > Una vez tengamos el archivo `credencial.json`, y el `ID_CARPETA` debemos abrir el script e introducirlos en esta parte del codigo:
+
 
 ![](https://github.com/Firtsmiracle/File-Upload-Drive-Api/blob/main/introducir_requerimientos.PNG)
 
 Si el archivo `credencial.json` esta en la misma ruta que el script solo especificar el nombre - de lo contrario si se debe introducir la ruta.
 
+
 > Por ultimo debemos introducir la ruta desde donde el script subira los archivos o carpetas que contenga
+
 
 ![](https://github.com/Firtsmiracle/File-Upload-Drive-Api/blob/main/introducir_ruta.PNG)
 
