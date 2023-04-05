@@ -45,7 +45,7 @@ Finalmente Seleccionamos la cuenta de servicio y nos vamos a la opcion `Claves >
     
 > Una vez tengamos el archivo `credencial.json`, y el `ID_CARPETA` debemos abrir el script e introducirlos en esta parte del codigo:
 
-![]("https://github.com/Firtsmiracle/File-Upload-Drive-Api/blob/main/introducir_requerimientos.PNG")
+![](https://github.com/Firtsmiracle/File-Upload-Drive-Api/blob/main/introducir_requerimientos.PNG)
 
 Si el archivo `credencial.json` esta en la misma ruta que el script solo especificar el nombre - de lo contrario si se debe introducir la ruta.
 
