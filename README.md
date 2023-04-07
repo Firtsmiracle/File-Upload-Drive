@@ -8,14 +8,14 @@ Script en `python3` que se encarga de automatizar la subida de archivos y carpet
 
 # Instalación
 ```
-git clone https://github.com/Firtsmiracle/File-Upload-Drive-Api
-cd File-Upload-Drive-Api
+git clone https://github.com/Firtsmiracle/File-Upload-Drive
+cd File-Upload-Drive
 pip3 install -r requirements.txt
 ```
 # Requisitos
 * Para usar este script deberas realizar los siguentes pasos:
 
-## OBTENR CREDENCIALES DE LA API
+## OBTENER CREDENCIALES DE LA API
 
 1- Obvimante deberas contar con una cuenta google-drive
 
@@ -35,7 +35,7 @@ Una vez crees el proyecto:
 
 Finalmente Seleccionamos la cuenta de servicio y nos vamos a la opcion `Claves > Agregar Clave` y creamos una clave en formato `.JSON` con un nombre descriptivo como `credencial.json`, en realidad puede tener el nombre que quieras.
   
-## CREACION DE CARPETA EN GOOGLE DRIVE:
+## CREACIÓN DE CARPETA EN GOOGLE DRIVE:
 
 1. Creamos una carpeta en nuestro Google Drive con el nombre que queramos:
      
